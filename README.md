@@ -4,7 +4,7 @@ This project was created as a part of a live task assigned by the *Assistant Dir
 The website helped the university *collect student information* and allowed their *counseling team to contact potential students* for admissions.
 ## 🖼️ Screenshot Preview
 
-![Website Screenshot](webshot.png)
+![Website Screenshot](webshot.PNG)
 
 ---
 
