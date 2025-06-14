@@ -2,6 +2,8 @@
 
 This project was created as a part of a live task assigned by the *Assistant Director of Bahra University*.  
 The website helped the university *collect student information* and allowed their *counseling team to contact potential students* for admissions.
+🎥 **Demo Video:**  
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/L_H3d2T0fPM?si=EmlRHA30N4tT7VJ-)
 ## 🖼️ Screenshot Preview
 
 ![Website Screenshot](webshot.PNG)
